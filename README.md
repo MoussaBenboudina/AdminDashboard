@@ -1,3 +1,3 @@
 # Admin Dashboard
 
-![Admin Dashboard](public/image.png)
+![Admin Dashboard](public/dashboard-img.png)
