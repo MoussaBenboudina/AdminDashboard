@@ -1,7 +1,7 @@
 import { ResponsiveBar } from "@nivo/bar";
 import { Box, useTheme } from "@mui/material";
 
-const data = [
+export const data = [
   {
     year: 2019,
     Spain: 900,
