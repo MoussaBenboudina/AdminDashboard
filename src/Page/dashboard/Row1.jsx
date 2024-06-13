@@ -4,7 +4,7 @@ import PointOfSaleIcon from "@mui/icons-material/PointOfSale";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import TrafficIcon from "@mui/icons-material/Traffic";
 import { data1, data2, data3, data4 } from "./data";
-import Card from "./Card";
+import Card from "./card";
 
 const Row1 = () => {
   const theme = useTheme();

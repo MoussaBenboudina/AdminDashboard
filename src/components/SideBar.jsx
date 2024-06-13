@@ -252,7 +252,6 @@ export default function SideBar({ open, handleDrawerClose }) {
       <List>
         {sections.map((item, index) => (
           <ListItem key={index + 1} disablePadding sx={{ display: "block" }}>
-          
             <Tooltip title={open ? "" : item.text} placement="right">
               <ListItemButton
                 onClick={() => {
